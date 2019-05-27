@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trainee Task</string>
+    <string name="fibonacci_sequence">Fibonacci Sequence</string>
+</resources>
